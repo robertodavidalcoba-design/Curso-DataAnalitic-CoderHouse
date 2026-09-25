@@ -1,0 +1,17 @@
+﻿variable,VIF
+indice_compromiso_academico,1.605829823870192
+indice_riesgo_academico,1.5159987286954826
+genero,1.2750992682827529
+indice_riesgo_social,1.2496883618128771
+nivel_educativo_parental,1.2139320158464695
+domicilio,1.2006428625501855
+tiempo_libre,1.178832290796088
+tiempo_viaje_colegio,1.1744502934223962
+edad,1.1712102774067337
+clases_particulares_pagadas,1.1501892926889774
+internet_en_casa,1.1385580757593525
+actividades_extracurriculares,1.0726719745165534
+asistio_a_guarderia,1.0637152738937736
+calidad_relacion_familiar,1.0591097265605187
+estado_convivencia_padres,1.0565837770994482
+estado_salud,1.0564999991890391
